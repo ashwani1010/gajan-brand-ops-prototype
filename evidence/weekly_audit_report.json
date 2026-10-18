@@ -1,0 +1,11 @@
+{
+  "classification":"synthetic demonstration; not evidence about a live account",
+  "run_mode":"on-demand local prototype audit",
+  "findings":[
+    {"account":"orchid_test_demo","type":"non_company_recovery","severity":"high","label":"unverified","remediation_status":"open"},
+    {"account":"orchid_test_demo","type":"missing_backup_codes","severity":"high","label":"unverified","remediation_status":"open"},
+    {"account":"orchid_test_demo","type":"incomplete_security","severity":"critical","label":"unverified","remediation_status":"open"},
+    {"account":"orchid_test_demo","type":"stale_access","severity":"medium","label":"unverified","remediation_status":"open"}
+  ],
+  "scheduler":"not configured; manual run demonstrated by API/UI only"
+}

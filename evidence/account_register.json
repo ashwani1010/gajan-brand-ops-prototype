@@ -1,0 +1,7 @@
+{
+  "classification":"synthetic demonstration data; not a live account register",
+  "accounts":[
+    {"brand":"Northstar Test Brand","handle":"northstar_test_demo","owner":"Test Owner","recovery_email":"o***@company.example.invalid","recovery_phone":"***0101","two_factor_method":"authenticator_app","two_factor_enabled":true,"backup_codes_in_vault":true,"vault_refs":["vault://demo/account-password","vault://demo/backup-codes"],"people_roles":[{"person":"Test Operator","role":"Analyst"}],"status":"ready_for_human_review","blockers":[],"last_verified_at":"synthetic timestamp","evidence_label":"unverified"},
+    {"brand":"Orchid Test Brand","handle":"orchid_test_demo","owner":"Test Owner","recovery_email":"p***@example.invalid","recovery_phone":null,"two_factor_method":null,"two_factor_enabled":false,"backup_codes_in_vault":false,"vault_refs":["vault://demo/account-password"],"people_roles":[{"person":"Departing Member","role":"Admin","last_verified":"2025-01-01"}],"status":"blocked","blockers":["Company test environment access not supplied"],"last_verified_at":null,"evidence_label":"unverified"}
+  ]
+}

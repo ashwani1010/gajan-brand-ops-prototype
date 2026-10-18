@@ -1,0 +1,5 @@
+[
+  {"case":"clean_test_account","expected":[],"note":"All tracked controls complete; synthetic clean fixture."},
+  {"case":"non_company_recovery_and_missing_security","expected":["non_company_recovery","missing_backup_codes","incomplete_security"],"note":"Synthetic positive examples."},
+  {"case":"stale_privileged_role","expected":["stale_access"],"note":"Synthetic privileged role timestamp is older than the policy threshold."}
+]

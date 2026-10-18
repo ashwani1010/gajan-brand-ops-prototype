@@ -1,0 +1,9 @@
+{
+  "classification":"synthetic plan; no live account changes were performed",
+  "account":"orchid_test_demo",
+  "departing_test_member":"Departing Member",
+  "completed":[],
+  "pending":["Verify and remove roles through Meta Business Suite or supported integration","Rotate accessible credentials through approved vault","Replace exposed backup codes and update register"],
+  "blocked":["Company test environment and Meta authorization were not supplied"],
+  "evidence_label":"unverified"
+}
